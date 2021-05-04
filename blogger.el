@@ -1,4 +1,4 @@
-;;; blogger.el - Post to blogs that support the Blogger API.
+;;; blogger.el --- Post to blogs that support the Blogger API
 
 ;; Copyright (C) 2002 Mark A. Hershberger.
 ;; Inspired by code Copyright (C) 2001 by Simon Kittle.
